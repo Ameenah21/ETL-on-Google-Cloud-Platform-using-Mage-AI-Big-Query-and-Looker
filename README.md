@@ -3,9 +3,9 @@ In this project, I built an end to end ETL pipeline that extracts, stores and an
 
 # Tools and Technologies
 1. Google Platform
-- Compute Engine 
-- Google Big query for data Storage
-- Looker for Visualization
+- [Compute Engine](https://cloud.google.com/compute) for Compute
+- [Google Big query](https://cloud.google.com/bigquery)for data Storage
+- [Looker](https://www.looker.com/) for Visualization
 
 2. Mage.Ai for Orchestration
 
