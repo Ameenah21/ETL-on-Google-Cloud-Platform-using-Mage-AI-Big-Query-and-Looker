@@ -7,7 +7,7 @@ In this project, I built an end to end ETL pipeline that extracts, stores and an
 - [Google Big query](https://cloud.google.com/bigquery)for data Storage
 - [Looker](https://www.looker.com/) for Visualization
 
-2. Mage.Ai for Orchestration
+2. [Mage.ai](https://www.mage.ai) for Orchestration
 3. draw.io for architecture diagram
 
 # The Process
