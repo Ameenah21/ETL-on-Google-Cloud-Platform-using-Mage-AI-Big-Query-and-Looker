@@ -1,16 +1,25 @@
 # ETL-on-Google-Cloud-Platform-using-Mage-AI-Big-Query-and-Looker
-In this project, I built an end to end ETL pipeline that extracts, stores and analyzes the uber data set found here
+In this project, I built an end to end ETL pipeline that extracts, stores and analyzes the uber data set found [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 # Tools and Technologies
-# Google Platform
+1. Google Platform
 - Compute Engine 
 - Google Big query for data Storage
 - Looker for Visualization
 
-# Mage.Ai for Orchestration
+2. Mage.Ai for Orchestration
 
 # The Process
 - Data Modeling
 ![Data Model](Images/uber_model.png)
-![Pipeline in Airflow](Images/Screenshot 2023-05-11 at 11.32.47.png)
-![Data Visulaization in Looker](Images/Screenshot 2023-05-31 at 14.44.02.png)
+
+![Pipeline in Airflow](Images/mage.png)
+
+![Data Visulaization in Looker](Images/looker.png)
+
+#Appendix
+- [Images](./Images) - Project Images
+- [Mage Files](Mage_Files) - Mage configuration files
+- Uber.ipynb
+- [Serversetup.sh](./serversetup.sh) - Script to update and set up mage in Virtal Machine
+- [Data](./uber_data.csv) - The data
