@@ -8,6 +8,7 @@ In this project, I built an end to end ETL pipeline that extracts, stores and an
 - [Looker](https://www.looker.com/) for Visualization
 
 2. Mage.Ai for Orchestration
+3. draw.io for architecture diagram
 
 # The Process
 - Data Modeling
