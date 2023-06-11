@@ -18,7 +18,7 @@ In this project, I built an end to end ETL pipeline that extracts, stores and an
 
 ![Data Visulaization in Looker](Images/looker.png)
 
-#Appendix
+# Appendix
 - [Images](./Images) - Project Images
 - [Mage Files](Mage_Files) - Mage configuration files
 - Uber.ipynb
